@@ -1,4 +1,2 @@
 "# 01-Python" 
 Adding more here. Pls sync
-Changing 
-Committing code !!!! 
